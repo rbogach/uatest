@@ -32,20 +32,20 @@
     "correct_option": "На футбол?"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Ходімо на тренування",
+    "option1": "Ні, я втомився",
+    "option2": "Так, а що?",
+    "option3": "Давай, сірники",
+    "option4": "Не знаю",
+    "correct_option": "Ні, я втомився"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Постав чашку на __",
+    "option1": "стіл",
+    "option2": "стілець",
+    "option3": "голову",
+    "option4": "на вікно",
+    "correct_option": "стіл"
   },
   {
     "question": "Два квитки, будь-ласка",
