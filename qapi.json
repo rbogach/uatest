@@ -64,36 +64,36 @@
     "correct_option": "Нічого"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Куди вона __?",
+    "option1": "пішла",
+    "option2": "пішов",
+    "option3": "прасувала",
+    "option4": "спав",
+    "correct_option": "пішла"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Де він __?",
+    "option1": "плавала",
+    "option2": "був",
+    "option3": "була",
+    "option4": "мав",
+    "correct_option": "був"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Ти що будеш__?",
+    "option1": "спитати",
+    "option2": "робити",
+    "option3": "звучати",
+    "option4": "кликати",
+    "correct_option": "робити"
   },
   {
-    "question": "Два квитки, будь-ласка",
-    "option1": "На футбол?",
-    "option2": "Ні",
-    "option3": "Хто",
-    "option4": "Ніяк",
-    "correct_option": "На футбол?"
+    "question": "Вона буде",
+    "option1": "прати білизну",
+    "option2": "гратиме в шахи",
+    "option3": "збиреться у кіно",
+    "option4": "засинати на лавці",
+    "correct_option": "прати білизну"
   },
   {
     "question": "Два квитки, будь-ласка",
